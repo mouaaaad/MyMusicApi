@@ -1,0 +1,12 @@
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.deps.json
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.dll
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Data.pdb
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.dll
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csprojAssemblyReference.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfoInputs.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.AssemblyInfo.cs
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CoreCompileInputs.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.csproj.CopyComplete
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.dll
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.Data\obj\Debug\netstandard2.0\MyMusic.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\bin\Debug\netstandard2.0\MyMusic.DataMongoDb.deps.json
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\bin\Debug\netstandard2.0\MyMusic.DataMongoDb.dll
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\bin\Debug\netstandard2.0\MyMusic.DataMongoDb.pdb
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.csprojAssemblyReference.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.AssemblyInfoInputs.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.AssemblyInfo.cs
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.csproj.CoreCompileInputs.cache
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.dll
+C:\Users\MouadBENFEDANE\source\repos\SolutionProjetMusic\MyMusic.DataMongoDb\obj\Debug\netstandard2.0\MyMusic.DataMongoDb.pdb
